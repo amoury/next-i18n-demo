@@ -4,4 +4,7 @@ module.exports = {
     defaultLocale: 'en',
   },
   trailingSlash: true,
+  images: {
+    domains: ['img.dummyapi.io']
+  }
 }
