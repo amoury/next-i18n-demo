@@ -1,24 +1,4 @@
 {
-  "welcome_to_the_demo": "Welcome to the demo",
-  "lipsum_dummy_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ipsum nulla, vehicula vitae bibendum sit amet, vehicula ut risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent at felis magna. Integer euismod lobortis congue. Vivamus eget urna gravida, accumsan ex quis, malesuada est. Donec molestie libero id diam malesuada venenatis. Suspendisse ligula est, mattis ac risus ac, congue consectetur erat. Vestibulum interdum scelerisque suscipit. Fusce ligula augue, hendrerit sit amet pulvinar sit amet, lobortis id leo. Etiam nulla nibh, vulputate nec eros sit amet, rutrum maximus ante. Donec nunc risus, commodo quis lectus in, consequat pulvinar nibh. Donec mattis at nulla in euismod. Vivamus vel arcu arcu.",
-  "posts": [
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-    }
-  ]
+  "welcome_to_the_demo": "Hey {{name}}, welcome to the demo",
+  "lipsum_dummy_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ipsum nulla, vehicula vitae bibendum sit amet, vehicula ut risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent at felis magna. Integer euismod lobortis congue. Vivamus eget urna gravida, accumsan ex quis, malesuada est. Donec molestie libero id diam malesuada venenatis. Suspendisse ligula est, mattis ac risus ac, congue consectetur erat. Vestibulum interdum scelerisque suscipit. Fusce ligula augue, hendrerit sit amet pulvinar sit amet, lobortis id leo. Etiam nulla nibh, vulputate nec eros sit amet, rutrum maximus ante. Donec nunc risus, commodo quis lectus in, consequat pulvinar nibh. Donec mattis at nulla in euismod. Vivamus vel arcu arcu."
 }

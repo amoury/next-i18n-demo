@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       
       <div className={styles.content}>
-        <h1>{t('welcome_to_the_demo')}</h1>
+        <h1>{t('welcome_to_the_demo', { name: 'Ansar' })}</h1>
 
         <p>{t('lipsum_dummy_content')}</p>
       </div>
